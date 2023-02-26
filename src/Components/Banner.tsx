@@ -13,7 +13,7 @@ function Banner() {
       <div className="content">
         <div className="breadCrump">
           <p>
-            Home <span>/Popular Artist</span>
+            Home <span>/Popular Artists</span>
           </p>
           <i>
             <FaEllipsisH />
